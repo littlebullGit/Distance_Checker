@@ -68,6 +68,8 @@ pip install -r requirements.txt
 ```bash
 GOOGLE_MAPS_API_KEY=your_api_key_here
 LOG_LEVEL=INFO
+MAX_RETRIES=3
+TIMEOUT=10
 ```
 
 ## Usage
