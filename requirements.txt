@@ -1,0 +1,10 @@
+numpy
+googlemaps
+pandas
+python-dotenv
+folium
+tkinterweb
+pillow
+pytest
+pyinstaller
+setuptools
